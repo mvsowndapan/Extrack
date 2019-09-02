@@ -1,0 +1,17 @@
+{
+  "name": "extrack",
+  "version": "1.0.0",
+  "description": "Final Year Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Expense",
+    "finance",
+    "sava",
+    "cash"
+  ],
+  "author": "M V Sowndapan",
+  "license": "ISC"
+}
